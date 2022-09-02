@@ -1,0 +1,1 @@
+pressart is a landing page for an application startup. It is a clone.
